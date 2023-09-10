@@ -1,5 +1,8 @@
 """
-Optional bonus. See course site for details.
+In this code we will compare two plays by analyzing the number of common words with a length greater than 10
+
+Author: Alison Hatfield
+Date 09-2023
 
 >>> len(longwordset1)
 415
@@ -41,36 +44,23 @@ def compare_two_plays():
 
     logger.info(f"List of words from play 2: {wordlist2}")
 
-
-    # Done with files - let the files close and the work begin
-
     # Remove duplicates by creating two sorted sets
-    # hint: use sorted() to sort the list
-    # hint: use set() to remove duplicates
-    # name them wordset1 and wordset2
-    wordset1 = set()  # TODO fix this line
-    wordset2 = set()  # TODO fix this line
+    wordset1 = sorted(set(wordlist1)) #removed duplictes by creating a sorted set of wordlist1
+    wordset2 = sorted(set(wordlist2)) #removed duplictes by creating a sorted set of wordlist2
 
 
     # initialize a variable maxlen = 10
-    maxlen = 1  # TODO fix this line
+    maxlen = 10  
 
     # use a list comprension to get a list of words longer than 10
-    # for word in wordset1
-    # That is:
-    # in a list (e.g. square brackets)
-    # say "[Give me word (for each word in wordset1)
-    #      if len(word) is greater than maxlen]"
-    # then convert the list to a set to we can take the intersection
-    # hint: use set()
-    # name them longwordset1 and longwordset2
+    longwordset1 = [word for word in wordset1 if len(word) > maxlen]
+    longwordset2 = [word for word in wordlist2 if len(word) > maxlen]
 
-    longwordset1 = set()  # TODO: fix this line
-    longwordset2 = set()  # TODO: fix this line
+
+    longwordset1 = set(longwordset1)
+    longwordset2 = set(longwordset2)
 
     # find the intersection of the two sets
-    # that is, the words in both longwordset1 1 & longwordset2
-    # name this variable longwords
     longwords = longwordset1 & longwordset2
 
     # print the length of the sets and the list
@@ -78,8 +68,13 @@ def compare_two_plays():
     print(len(longwordset2))
     print(len(longwords))
     print()
-    print(f"{sorted(longwords) = }")
+    print(sorted(longwords))
     print()
+
+    logger.info(f"{len(longwordset1) = }")
+    logger.info(f"{len(longwordset2) = }")
+    logger.info(f"{len(longwords) = }")
+
 
     # check your work
     print("TESTING...if nothing prints before the testing is done, you passed!")

@@ -1,5 +1,8 @@
 """
-Modify this docstring.
+Purpose: Illustrate tuples, sets, and dictionaries in Python and relate it to the basketball domain. 
+
+Author: Alison Hatfield
+Date: 09-2023
 
 """
 # import from local util_datafun_logger.py
