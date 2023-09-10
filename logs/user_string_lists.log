@@ -1,0 +1,27 @@
+2023-09-10 11:21:34,126 =============================================================
+2023-09-10 11:21:34,126 =============================================================
+2023-09-10 11:21:34,126 Today is 2023-09-10 at 11:21 AM
+2023-09-10 11:21:34,126 This file is running on: posix Darwin 19.6.0
+2023-09-10 11:21:34,126 The Python version is: 3.11.4
+2023-09-10 11:21:34,126 The active conda environment is:  None
+2023-09-10 11:21:34,126 The active pip environment is:    None
+2023-09-10 11:21:34,126 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-10 11:21:34,126 The current working directory is: /Users/alisonhatfield/Desktop/datafun-03-datatypes
+2023-09-10 11:21:34,126 This source file is in:           /Users/alisonhatfield/Desktop/datafun-03-datatypes
+2023-09-10 11:21:34,126 =============================================================
+2023-09-10 11:21:34,126 =============================================================
+2023-09-10 11:21:34,126 Calling functions from main block
+2023-09-10 11:21:34,126 The list of words is: ['Steph', 'Michael', 'Kobe', 'Lebron', 'Giannis', 'Scotty', 'Michael']
+2023-09-10 11:21:34,126 There are 7 players listed.
+2023-09-10 11:21:34,126 The combined list of players and teams is: <zip object at 0x1070f9b80>
+2023-09-10 11:21:34,126 The set of unique words is: {'Steph', 'Lebron', 'Kobe', 'Giannis', 'Scotty', 'Michael'}
+2023-09-10 11:21:34,126 There are 6 unique words in the file.
+2023-09-10 11:21:34,126 The best player listed is: Kobe
+2023-09-10 11:21:34,126 Calling create_random_sentence()
+2023-09-10 11:21:34,126 Random sentence: Giannis plays for team2 who wore black jerserys and tie.
+2023-09-10 11:21:34,126 Calling process_teams_NBA.txt()
+2023-09-10 11:21:34,126 The sorted list of NBA teams is: <built-in method sort of list object at 0x1070f9a40>
+2023-09-10 11:21:34,127 The list of words is: ['Atlanta', 'Hawks', 'Boston', 'Celtics', 'Brooklyn', 'Nets', 'Charlotte', 'Hornets', 'Chicago', 'Bulls', 'Cleveland', 'Cavaliers', 'Dallas', 'Mavericks', 'Denver', 'Nuggets', 'Detroit', 'Pistons', 'Golden', 'State', 'Warriors', 'Houston', 'Rockets', 'Indiana', 'Pacers', 'LA', 'Clippers', 'Los', 'Angeles', 'Lakers', 'Memphis', 'Grizzlies', 'Miami', 'Heat', 'Milwaukee', 'Bucks', 'Minnesota', 'Timberwolves', 'New', 'Orleans', 'Pelicans', 'New', 'York', 'Knicks', 'Oklahoma', 'City', 'Thunder', 'Orlando', 'Magic', 'Philadelphia', '76ers', 'Phoenix', 'Suns', 'Portland', 'Trail', 'Blazers', 'Sacramento', 'Kings', 'San', 'Antonio', 'Spurs', 'Toronto', 'Raptors', 'Utah', 'Jazz', 'Washington', 'Wizards']
+2023-09-10 11:21:34,127 There are 67 words in the file.
+2023-09-10 11:21:34,127 The set of unique words is: {'Thunder', 'Hornets', 'Boston', 'Pacers', 'Wizards', '76ers', 'City', 'Magic', 'Memphis', 'Milwaukee', 'Minnesota', 'Phoenix', 'Rockets', 'Knicks', 'Detroit', 'Nets', 'Timberwolves', 'Brooklyn', 'Oklahoma', 'Atlanta', 'Suns', 'Washington', 'Los', 'Sacramento', 'San', 'Clippers', 'Grizzlies', 'Cleveland', 'Raptors', 'Warriors', 'Portland', 'Golden', 'Lakers', 'Orleans', 'York', 'Charlotte', 'Bucks', 'Celtics', 'Blazers', 'Houston', 'Hawks', 'Nuggets', 'Dallas', 'Spurs', 'Chicago', 'Bulls', 'Heat', 'Trail', 'Philadelphia', 'Jazz', 'LA', 'Toronto', 'Indiana', 'New', 'State', 'Antonio', 'Kings', 'Pistons', 'Miami', 'Orlando', 'Pelicans', 'Cavaliers', 'Denver', 'Utah', 'Angeles', 'Mavericks'}
+2023-09-10 11:21:34,127 There are 66 unique words in the file.
