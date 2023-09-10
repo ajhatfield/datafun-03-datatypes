@@ -1,5 +1,8 @@
 """
-Modify this docstring.
+Illustrate string lists in realtion to different basketball components. 
+
+Author: Alison Hatfield
+Date: Sep-2023
 
 """
 
