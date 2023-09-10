@@ -1,3 +1,9 @@
+# Folder Information
+
+Author: Alison Hatfield
+Date: 9/8/2023
+Domain: Basketball
+
 # datafun-03-datatypes
 
 > Practice with Python data types, filter(), map(), and list comprehensions

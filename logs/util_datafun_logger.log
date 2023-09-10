@@ -1,0 +1,15 @@
+2023-09-10 10:19:29,014 =============================================================
+2023-09-10 10:19:29,014 =============================================================
+2023-09-10 10:19:29,014 Today is 2023-09-10 at 10:19 AM
+2023-09-10 10:19:29,014 This file is running on: posix Darwin 19.6.0
+2023-09-10 10:19:29,014 The Python version is: 3.11.4
+2023-09-10 10:19:29,014 The active conda environment is:  None
+2023-09-10 10:19:29,014 The active pip environment is:    None
+2023-09-10 10:19:29,014 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-10 10:19:29,015 The current working directory is: /Users/alisonhatfield/Desktop/datafun-03-datatypes
+2023-09-10 10:19:29,015 This source file is in:           /Users/alisonhatfield/Desktop/datafun-03-datatypes
+2023-09-10 10:19:29,015 =============================================================
+2023-09-10 10:19:29,015 =============================================================
+2023-09-10 10:19:29,015 Starting util_datafun_logger.py
+2023-09-10 10:19:29,015 Information is logged to: logs/logs/util_datafun_logger.log
+2023-09-10 10:19:29,015 Ending util_datafun_logger.py
